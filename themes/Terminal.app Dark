@@ -1,22 +1,47 @@
 # Colors taken from original Apple terminal.
+
 palette = 0=#000000
-palette = 1=#8F0000
-palette = 2=#009C00
-palette = 3=#8E8E00
-palette = 4=#0006A9
+
+# palette = 1=#8F0000
+palette = 1=#EF0000
+
+# palette = 2=#009C00
+# palette = 2=#2accac -- lightTurquoise from my flaui theme.
+palette = 2=#00EC00
+
+# palette = 3=#8E8E00
+palette = 3=#CECE00
+
+# palette = 4=#0006A9
+palette = 4=#0096ff
+
 palette = 5=#A906A9
-palette = 6=#009CA9
+
+# palette = 6=#009CA9
+palette = 6=#00BCC9
+
 palette = 7=#B7B7B7
+
 palette = 8=#5B5B5B
-palette = 9=#E20000
+
+# palette = 9=#E20000
+palette = 9=#F20000
+
 palette = 10=#00D300
+
 palette = 11=#E2E200
-palette = 12=#0006FF
+
+# palette = 12=#0006FF
+palette = 12=#0096FF
+
 palette = 13=#E207E2
+
 palette = 14=#00E2E2
+
 palette = 15=#E2E2E2
 
-# background = #ffffff
+# 'midnightBlue' color from my flatui vim theme fork:
+background = #2C3E50
 # foreground = #000000
 # cursor-color = #98989d
 # cursor-text = #ffffff
