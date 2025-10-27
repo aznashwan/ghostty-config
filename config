@@ -1,0 +1,17 @@
+### Shell:
+command = /opt/homebrew/bin/fish --login --interactive
+shell-integration = fish
+
+### Theme:
+theme = /Users/nashwan/.config/ghostty/themes/Terminal.app Dark
+
+### Fonts:
+# font-family = Fira Code Regular
+font-family = FiraCode Nerd Font Mono Bold
+font-thicken = true
+font-feature = liga, calt, dlig
+
+### Shortcuts:
+# Cmd-Shift-L/R to switch tabs.
+keybind = super+shift+left=previous_tab
+keybind = super+shift+right=next_tab

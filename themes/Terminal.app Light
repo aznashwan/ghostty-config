@@ -1,0 +1,25 @@
+# Main colors taken from original Apple terminal.
+palette = 0=#000000
+palette = 1=#8F0000
+palette = 2=#009C00
+palette = 3=#8E8E00
+palette = 4=#0006A9
+palette = 5=#A906A9
+palette = 6=#009CA9
+palette = 7=#B7B7B7
+palette = 8=#5B5B5B
+palette = 9=#E20000
+palette = 10=#00D300
+palette = 11=#E2E200
+palette = 12=#0006FF
+palette = 13=#E207E2
+palette = 14=#00E2E2
+palette = 15=#E2E2E2
+
+# Auxiliary colors taken from builtin them 'Apple System Colors Light'.
+background = #ffffff
+foreground = #000000
+cursor-color = #98989d
+cursor-text = #ffffff
+selection-background = #abd8ff
+# selection-foreground = #000000
