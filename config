@@ -4,6 +4,7 @@ shell-integration = fish
 
 ### Theme:
 theme = /Users/nashwan/.config/ghostty/themes/Terminal.app Dark
+# theme = /Users/nashwan/.config/ghostty/themes/Terminal.app Light
 
 ### Fonts:
 # font-family = Fira Code Regular
