@@ -1,6 +1,7 @@
 ### Shell:
 command = /opt/homebrew/bin/fish --login --interactive
 shell-integration = fish
+scrollback-limit = 100000000
 
 ### Theme:
 theme = /Users/nashwan/.config/ghostty/themes/Terminal.app Dark
