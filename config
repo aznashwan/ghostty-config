@@ -17,3 +17,5 @@ font-feature = liga, calt, dlig
 # Cmd-Shift-L/R to switch tabs.
 keybind = super+shift+left=previous_tab
 keybind = super+shift+right=next_tab
+keybind = super+shift+arrow_up=scroll_to_top
+keybind = super+shift+arrow_down=scroll_to_bottom
